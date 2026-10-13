@@ -1,0 +1,6 @@
+{
+  "name": "Python Mastery - Beginner Tutorial Book",
+  "description": "A comprehensive zero-to-hero interactive Python tutorial book with in-browser execution, visual variable memory tracer, automated code challenges, quizzes, and completion certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
